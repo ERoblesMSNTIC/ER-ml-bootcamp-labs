@@ -27,6 +27,7 @@ st.dataframe(df)
 # Menú de Selección
 dataframe_numerico = df.select_dtypes(include= "number")
 columna_seleccionada = st.selectbox("Seleccione una variable: ", dataframe_numerico.columns)
+
 # Creación de un histograma
 fig, ax = plt.subplots(figsize= (12,4))
 sns.histplot(df[columna_seleccionada].dropna(), ax= ax)
