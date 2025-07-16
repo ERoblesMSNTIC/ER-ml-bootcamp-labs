@@ -50,7 +50,7 @@ with st.form(key="input_form"):
     for c in campos:
         # Usar st.number_input para garantizar valores numéricos
         if c == 'Well_ID':
-            v = st.number_input(f"{c} (entero, 1-20)", min_value=1, max_value=20, step=1)
+            v = st.number_input(f"{c}", min_value=1, max_value=20, step=1)
             #v = st.text_input(f"{c} (entero, 1-20)")
         elif c == 'Maintenance_Required':
             v = st.number_input(f"{c} (0 o 1)", min_value=0, max_value=1, step=1)
