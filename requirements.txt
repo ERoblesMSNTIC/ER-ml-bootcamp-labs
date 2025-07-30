@@ -32,7 +32,8 @@ category_encoders  # Encoding de categorías
 # Reportes interactivos/HTML
 jinja2  # Plantillas para reportes
 nbconvert # Convertir notebooks a PDF/HTML
-pandas-profiling  # Informes automáticos EDA
+#pandas-profiling  # Informes automáticos EDA pip uninstall pandas-profiling
+ydata-profiling  # Informes automáticos EDA
 
 # Dashboarding
 streamlit  # Para crear apps interactivas
