@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/ER-ml-bootcamp-labs/mlruns/265246527609684020/516ef085418542a38a7f234c300ad821/artifacts
+end_time: 1756333274069
+entry_point_name: ''
+experiment_id: '265246527609684020'
+lifecycle_stage: active
+run_id: 516ef085418542a38a7f234c300ad821
+run_name: skittish-dolphin-546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756333178851
+status: 4
+tags: []
+user_id: codespace

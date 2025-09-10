@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/ER-ml-bootcamp-labs/mlruns/265246527609684020/a957e5c65d9640388e559ab60744d433/artifacts
+end_time: 1756327103239
+entry_point_name: ''
+experiment_id: '265246527609684020'
+lifecycle_stage: active
+run_id: a957e5c65d9640388e559ab60744d433
+run_name: useful-fawn-912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756327005288
+status: 3
+tags: []
+user_id: codespace

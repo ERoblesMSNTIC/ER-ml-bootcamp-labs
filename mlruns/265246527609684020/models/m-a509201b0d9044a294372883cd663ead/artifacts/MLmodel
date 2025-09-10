@@ -1,0 +1,22 @@
+artifact_path: file:///workspaces/ER-ml-bootcamp-labs/mlruns/265246527609684020/models/m-a509201b0d9044a294372883cd663ead/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.1
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.3.2
+model_id: m-a509201b0d9044a294372883cd663ead
+model_size_bytes: 4182216
+model_uuid: m-a509201b0d9044a294372883cd663ead
+prompts: null
+run_id: a957e5c65d9640388e559ab60744d433
+utc_time_created: '2025-08-27 20:38:20.764767'

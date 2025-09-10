@@ -1,0 +1,10 @@
+artifact_location: file:///workspaces/ER-ml-bootcamp-labs/mlruns/265246527609684020/models/m-ed888ee42db346769fb47d3980d3f14b/artifacts
+creation_timestamp: 1756333271051
+experiment_id: '265246527609684020'
+last_updated_timestamp: 1756333273199
+model_id: m-ed888ee42db346769fb47d3980d3f14b
+model_type: null
+name: XGBoost
+source_run_id: 516ef085418542a38a7f234c300ad821
+status: 2
+status_message: null

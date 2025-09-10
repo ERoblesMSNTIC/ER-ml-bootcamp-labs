@@ -1,0 +1,1 @@
+['Well_ID', 'Pressure', 'Temperature', 'Flow_Rate', 'Pump_Speed', 'Gas_Oil_Ratio', 'Water_Cut', 'Vibration', 'Maintenance_Required', 'Downtime']

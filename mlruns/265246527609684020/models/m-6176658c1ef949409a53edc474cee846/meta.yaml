@@ -1,0 +1,10 @@
+artifact_location: file:///workspaces/ER-ml-bootcamp-labs/mlruns/265246527609684020/models/m-6176658c1ef949409a53edc474cee846/artifacts
+creation_timestamp: 1756333227465
+experiment_id: '265246527609684020'
+last_updated_timestamp: 1756333230916
+model_id: m-6176658c1ef949409a53edc474cee846
+model_type: null
+name: RandomForest
+source_run_id: 516ef085418542a38a7f234c300ad821
+status: 2
+status_message: null
